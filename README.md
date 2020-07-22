@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**llfylwg/llfylwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://pic2.zhimg.com/v2-4bab528a6d26b99173f7bd3a3838873f_b.png" />  
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
